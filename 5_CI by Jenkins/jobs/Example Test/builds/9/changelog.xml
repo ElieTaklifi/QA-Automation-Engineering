@@ -1,0 +1,419 @@
+<log plugin="filesystem_scm@2.1">
+  <run class="hudson.model.FreeStyleBuild">
+    <actions>
+      <hudson.model.CauseAction>
+        <causeBag class="linked-hash-map">
+          <entry>
+            <hudson.model.Cause_-UserIdCause>
+              <userId>admin</userId>
+            </hudson.model.Cause_-UserIdCause>
+            <int>1</int>
+          </entry>
+        </causeBag>
+      </hudson.model.CauseAction>
+    </actions>
+    <queueId>8</queueId>
+    <timestamp>1649780678259</timestamp>
+    <startTime>1649780678265</startTime>
+    <duration>0</duration>
+    <charset>windows-1252</charset>
+    <keepLog>false</keepLog>
+    <builtOn></builtOn>
+    <workspace>C:\Users\Administrateur\.jenkins\workspace\HomeWork 2</workspace>
+    <hudsonVersion>2.332.2</hudsonVersion>
+    <scm class="hudson.scm.NullChangeLogParser"/>
+  </run>
+  <browser class="hudson.plugins.filesystem_scm.FilesystemRepositoryBrowser"/>
+  <logs>
+    <changelog>
+      <parent reference="../../.."/>
+      <paths>
+        <path>
+          <value>target\classes\application.properties</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\applogic\API_Helper1.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\applogic\ApplicationManager1.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\applogic\DriverBasedHelper.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\applogic\LoginHelper1.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\grid2\README.txt</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\log4j.properties</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\models\User.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\super_pages\AnyPage.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\super_pages\MenusPage.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\super_pages\Page.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\util_pages\CategoryContentPage.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\util_pages\CheckOutPage.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\util_pages\HomePage.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\util_pages\ItemsListPage.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\util_pages\LoginPage.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\util_pages\OrderSuccessPage.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\util_pages\RegisterPage.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\util_pages\RegisterSuccessPage.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\util_pages\ShoppingCartPage.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\_pages_mngt\MainPageManager.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\_pages_mngt\page_factory\DisplayedElementLocator.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\pages\_pages_mngt\page_factory\DisplayedElementLocatorFactory.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\util\Browser.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\util\FileUtilis.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\util\GenUtils.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\util\ParamsUtils.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\util\PropertiesReader.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\util\SelUtils$1.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\util\SelUtils$2.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\util\SelUtils$3.class</value>
+          <action>ADD</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\util\SelUtils$LocatorType.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\util\SelUtils.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\webdriver\AuthenticatedHtmlUnitDriver.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\classes\webdriver\WebDriverFactory.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\createdFiles.lst</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire\surefirebooter6339023169512518780.jar</value>
+          <action>ADD</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\test-classes\testng.xml</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\test-classes\tests\basic\API_TestExample.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\test-classes\tests\basic\LinearOldCode.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\test-classes\tests\basic\PageObjectCode.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\test-classes\tests\supers\TestBase.class</value>
+          <action>EDIT</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\automation_basic_project-basic.jar</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\maven-archiver\pom.properties</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\bullet_point.png</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\collapseall.gif</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\emailable-report.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\failed.png</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\index.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\jquery-1.7.1.min.js</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\junitreports\TEST-tests.basic.LinearOldCode.xml</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\navigator-bullet.png</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\old\index.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\old\Tests\classes.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\old\Tests\groups.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\old\Tests\index.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\old\Tests\main.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\old\Tests\methods-alphabetical.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\old\Tests\methods-not-run.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\old\Tests\methods.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\old\Tests\reporter-output.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\old\Tests\TestAcq.properties</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\old\Tests\testng.xml.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\old\Tests\toc.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\passed.png</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\skipped.png</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\TEST-TestSuite.xml</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\testng-reports.css</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\testng-reports.js</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\testng-results.xml</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\testng.css</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\Tests\TestAcq.html</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\Tests\TestAcq.xml</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+        <path>
+          <value>target\surefire-reports\TestSuite.txt</value>
+          <action>DELETE</action>
+          <changelog reference="../../.."/>
+        </path>
+      </paths>
+    </changelog>
+  </logs>
+</log>

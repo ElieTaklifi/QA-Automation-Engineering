@@ -1,0 +1,32 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>admin</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.scm.SCMRevisionState_-None/>
+  </actions>
+  <queueId>6</queueId>
+  <timestamp>1649780369872</timestamp>
+  <startTime>1649780369878</startTime>
+  <result>SUCCESS</result>
+  <duration>49585</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Users\Administrateur\.jenkins\workspace\HomeWork 2</workspace>
+  <hudsonVersion>2.332.2</hudsonVersion>
+  <scm class="hudson.plugins.filesystem_scm.ChangelogSet$XMLSerializer" plugin="filesystem_scm@2.1"/>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set">
+      <string>unknown</string>
+    </c>
+  </culprits>
+</build>

@@ -1,0 +1,1 @@
+<?php foreach ([1,2,3] as $i) {echo $i . PHP_EOL;}

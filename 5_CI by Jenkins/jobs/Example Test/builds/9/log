@@ -1,0 +1,219 @@
+Démarré par l'utilisateur [8mha:////4P1754+5BC91qZXxsThrpFfY0Fb2RTZXmTXYyzRn9St2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace C:\Users\Administrateur\.jenkins\workspace\HomeWork 2
+FSSCM.checkout C:\Users\Administrateur\eclipse-workspace\automation_basic to C:\Users\Administrateur\.jenkins\workspace\HomeWork 2
+Modified file: target\classes\application.properties
+Modified file: target\classes\applogic\API_Helper1.class
+Modified file: target\classes\applogic\ApplicationManager1.class
+Modified file: target\classes\applogic\DriverBasedHelper.class
+Modified file: target\classes\applogic\LoginHelper1.class
+Modified file: target\classes\grid2\README.txt
+Modified file: target\classes\log4j.properties
+Modified file: target\classes\models\User.class
+Modified file: target\classes\pages\super_pages\AnyPage.class
+Modified file: target\classes\pages\super_pages\MenusPage.class
+Modified file: target\classes\pages\super_pages\Page.class
+Modified file: target\classes\pages\util_pages\CategoryContentPage.class
+Modified file: target\classes\pages\util_pages\CheckOutPage.class
+Modified file: target\classes\pages\util_pages\HomePage.class
+Modified file: target\classes\pages\util_pages\ItemsListPage.class
+Modified file: target\classes\pages\util_pages\LoginPage.class
+Modified file: target\classes\pages\util_pages\OrderSuccessPage.class
+Modified file: target\classes\pages\util_pages\RegisterPage.class
+Modified file: target\classes\pages\util_pages\RegisterSuccessPage.class
+Modified file: target\classes\pages\util_pages\ShoppingCartPage.class
+Modified file: target\classes\pages\_pages_mngt\MainPageManager.class
+Modified file: target\classes\pages\_pages_mngt\page_factory\DisplayedElementLocator.class
+Modified file: target\classes\pages\_pages_mngt\page_factory\DisplayedElementLocatorFactory.class
+Modified file: target\classes\util\Browser.class
+Modified file: target\classes\util\FileUtilis.class
+Modified file: target\classes\util\GenUtils.class
+Modified file: target\classes\util\ParamsUtils.class
+Modified file: target\classes\util\PropertiesReader.class
+Modified file: target\classes\util\SelUtils$1.class
+Modified file: target\classes\util\SelUtils$2.class
+New file: target\classes\util\SelUtils$3.class
+Modified file: target\classes\util\SelUtils$LocatorType.class
+Modified file: target\classes\util\SelUtils.class
+Modified file: target\classes\webdriver\AuthenticatedHtmlUnitDriver.class
+Modified file: target\classes\webdriver\WebDriverFactory.class
+Modified file: target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst
+Modified file: target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst
+Modified file: target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\createdFiles.lst
+Modified file: target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst
+New file: target\surefire\surefirebooter6339023169512518780.jar
+Modified file: target\test-classes\testng.xml
+Modified file: target\test-classes\tests\basic\API_TestExample.class
+Modified file: target\test-classes\tests\basic\LinearOldCode.class
+Modified file: target\test-classes\tests\basic\PageObjectCode.class
+Modified file: target\test-classes\tests\supers\TestBase.class
+Deleted file: target\automation_basic_project-basic.jar
+Deleted file: target\maven-archiver\pom.properties
+Deleted file: target\surefire-reports\bullet_point.png
+Deleted file: target\surefire-reports\collapseall.gif
+Deleted file: target\surefire-reports\emailable-report.html
+Deleted file: target\surefire-reports\failed.png
+Deleted file: target\surefire-reports\index.html
+Deleted file: target\surefire-reports\jquery-1.7.1.min.js
+Deleted file: target\surefire-reports\junitreports\TEST-tests.basic.LinearOldCode.xml
+Deleted file: target\surefire-reports\navigator-bullet.png
+Deleted file: target\surefire-reports\old\index.html
+Deleted file: target\surefire-reports\old\Tests\classes.html
+Deleted file: target\surefire-reports\old\Tests\groups.html
+Deleted file: target\surefire-reports\old\Tests\index.html
+Deleted file: target\surefire-reports\old\Tests\main.html
+Deleted file: target\surefire-reports\old\Tests\methods-alphabetical.html
+Deleted file: target\surefire-reports\old\Tests\methods-not-run.html
+Deleted file: target\surefire-reports\old\Tests\methods.html
+Deleted file: target\surefire-reports\old\Tests\reporter-output.html
+Deleted file: target\surefire-reports\old\Tests\TestAcq.properties
+Deleted file: target\surefire-reports\old\Tests\testng.xml.html
+Deleted file: target\surefire-reports\old\Tests\toc.html
+Deleted file: target\surefire-reports\passed.png
+Deleted file: target\surefire-reports\skipped.png
+Deleted file: target\surefire-reports\TEST-TestSuite.xml
+Deleted file: target\surefire-reports\testng-reports.css
+Deleted file: target\surefire-reports\testng-reports.js
+Deleted file: target\surefire-reports\testng-results.xml
+Deleted file: target\surefire-reports\testng.css
+Deleted file: target\surefire-reports\Tests\TestAcq.html
+Deleted file: target\surefire-reports\Tests\TestAcq.xml
+Deleted file: target\surefire-reports\TestSuite.txt
+
+FSSCM.check completed in 220 milliseconds
+[HomeWork 2] $ cmd.exe /C '""C:\Program Files\Maven\apache-maven-3.6.3\bin\mvn.cmd"' -f C:\Users\Administrateur\eclipse-workspace\automation_basic\pom.xml clean install test -DsuiteXmlFile=C:\Users\Administrateur\eclipse-workspace\automation_basic\src\test\resources\testng.xml '"-Dworkspace=C:\Selenium Workspace"' && exit %%ERRORLEVEL%%"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------< com.ilana.ilana2:automation_basic_project >--------------
+[INFO] Building automation_basic_project basic
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ automation_basic_project ---
+[INFO] Deleting C:\Users\Administrateur\eclipse-workspace\automation_basic\target
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ automation_basic_project ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 3 resources
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.3:compile (default-compile) @ automation_basic_project ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 28 source files to C:\Users\Administrateur\eclipse-workspace\automation_basic\target\classes
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ automation_basic_project ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.3:testCompile (default-testCompile) @ automation_basic_project ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 4 source files to C:\Users\Administrateur\eclipse-workspace\automation_basic\target\test-classes
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.16:test (default-test) @ automation_basic_project ---
+[INFO] Surefire report directory: C:\Users\Administrateur\eclipse-workspace\automation_basic\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running TestSuite
+Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 43044
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1649780685.096][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+[1649780685.608][WARNING]: This version of ChromeDriver has not been tested with Chrome version 100.
+avr. 12, 2022 7:24:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFOS: Detected dialect: OSS
+INFO  19:24:45  (TestBase.java:96) - Writing debug log to: C:\Selenium Workspace\Logs\basic\PageObjectCode791.log
+INFO  19:24:45  (TestBase.java:216) - Starting to record the test
+INFO  19:24:45  (FileUtilis.java:30) - Created dir: C:\Selenium Workspace\Recordings\basic\PageObjectCode
+INFO  19:24:45  (TestBase.java:222) - Saving recording to: 'C:\Selenium Workspace\Recordings\basic\PageObjectCode'.
+INFO  19:24:46  (TestBase.java:157) - *************************************************************************
+INFO  19:24:46  (TestBase.java:158) - The 'PageObjectCode' test has started.
+INFO  19:24:46  (TestBase.java:159) - Start time: 12/04/2022 19:24:46
+INFO  19:24:46  (TestBase.java:160) - *************************************************************************
+INFO  19:24:48  (MenusPage.java:27) - Click Register link.
+INFO  19:24:49  (RegisterPage.java:28) - Select gender male
+INFO  19:24:49  (RegisterPage.java:37) - Enter first name
+INFO  19:24:49  (RegisterPage.java:43) - Enter last name
+INFO  19:24:49  (RegisterPage.java:49) - Select birthday day.
+INFO  19:24:49  (RegisterPage.java:57) - Select birthday month.
+INFO  19:24:49  (RegisterPage.java:65) - Select birthday year.
+INFO  19:24:49  (RegisterPage.java:72) - Set email randomEmail1204221924021@gmail.com
+INFO  19:24:49  (RegisterPage.java:78) - Type password 123456
+INFO  19:24:49  (RegisterPage.java:84) - Type password verification.
+INFO  19:24:49  (RegisterPage.java:90) - Click register button
+INFO  19:24:50  (RegisterSuccessPage.java:25) - Verify message: Your registration completed
+INFO  19:24:51  (HomePage.java:26) - Verify home text is Welcome to our store
+INFO  19:24:51  (MenusPage.java:33) - Click logout button
+INFO  19:24:52  (MenusPage.java:47) - Click login button
+INFO  19:24:53  (LoginPage.java:22) - Type email randomEmail1204221924021@gmail.com
+INFO  19:24:53  (LoginPage.java:28) - Type password 123456
+INFO  19:24:53  (LoginPage.java:34) - Click login button
+INFO  19:24:54  (MenusPage.java:53) - Click Electronics button
+INFO  19:24:55  (CategoryContentPage.java:22) - Click Cell Phones button
+INFO  19:24:55  (ItemsListPage.java:27) - Click Add to cart button
+INFO  19:24:55  (ItemsListPage.java:22) - Save the price as string
+INFO  19:25:02  (MenusPage.java:59) - Click Shopping cart button
+INFO  19:25:02  (ShoppingCartPage.java:23) - Save price new page as string
+INFO  19:25:02  (ShoppingCartPage.java:32) - Click Terms of service button
+INFO  19:25:02  (ShoppingCartPage.java:38) - Click checkout button
+INFO  19:25:05  (CheckOutPage.java:25) - Select country dropdown
+INFO  19:25:07  (CheckOutPage.java:33) - Type cityParis
+INFO  19:25:07  (CheckOutPage.java:39) - Type addressAv Foch
+INFO  19:25:07  (CheckOutPage.java:45) - Type Zip75001
+INFO  19:25:08  (CheckOutPage.java:51) - Type Phone number123456789
+INFO  19:25:09  (CheckOutPage.java:58) - Click Continue (save) button
+INFO  19:25:10  (CheckOutPage.java:65) - Click Continue (shipping-method) button
+INFO  19:25:11  (CheckOutPage.java:72) - Click Continue (payment-method) button
+INFO  19:25:12  (CheckOutPage.java:79) - Click Continue (payment-info) button
+INFO  19:25:14  (CheckOutPage.java:94) - Click Continue (confirm-order) button
+INFO  19:25:17  (OrderSuccessPage.java:25) - Check string after order 1
+INFO  19:25:17  (OrderSuccessPage.java:31) - Check string after order 2
+INFO  19:25:17  (OrderSuccessPage.java:40) - Click Continue (confirm-order) button
+INFO  19:25:18  (HomePage.java:26) - Verify home text is Welcome to our store
+INFO  19:25:18  (MenusPage.java:33) - Click logout button
+INFO  19:25:19  (TestBase.java:240) - Stop the recording of the test
+INFO  19:25:19  (TestBase.java:269) - Recording is saved in: C:\Selenium Workspace\Recordings\basic\PageObjectCode\PageObjectCode1204221925.avi
+INFO  19:25:19  (TestBase.java:168) - *************************************************************************
+INFO  19:25:19  (TestBase.java:169) - The 'PageObjectCode' test has ended successfully.
+INFO  19:25:19  (TestBase.java:170) - Start time: 12/04/2022 19:24:46
+INFO  19:25:19  (TestBase.java:171) - End time:       12/04/2022 19:25:19.
+INFO  19:25:19  (TestBase.java:172) - -------------------------------------------------------------------------
+INFO  19:25:19  (TestBase.java:173) - Total run time: 0 days, 0 hours, 0 minutes, 33.586 seconds.
+INFO  19:25:19  (TestBase.java:174) - *************************************************************************
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.355 sec - in TestSuite
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ automation_basic_project ---
+[INFO] Building jar: C:\Users\Administrateur\eclipse-workspace\automation_basic\target\automation_basic_project-basic.jar
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-install-plugin:2.4:install (default-install) @ automation_basic_project ---
+[INFO] Installing C:\Users\Administrateur\eclipse-workspace\automation_basic\target\automation_basic_project-basic.jar to C:\Users\Administrateur\.m2\repository\com\ilana\ilana2\automation_basic_project\basic\automation_basic_project-basic.jar
+[INFO] Installing C:\Users\Administrateur\eclipse-workspace\automation_basic\pom.xml to C:\Users\Administrateur\.m2\repository\com\ilana\ilana2\automation_basic_project\basic\automation_basic_project-basic.pom
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ automation_basic_project ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 3 resources
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.3:compile (default-compile) @ automation_basic_project ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ automation_basic_project ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.3:testCompile (default-testCompile) @ automation_basic_project ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.16:test (default-test) @ automation_basic_project ---
+[INFO] Skipping execution of surefire because it has already been run for this configuration
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  41.285 s
+[INFO] Finished at: 2022-04-12T19:25:20+03:00
+[INFO] ------------------------------------------------------------------------
+Finished: SUCCESS

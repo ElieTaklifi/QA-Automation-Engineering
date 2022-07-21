@@ -1,0 +1,120 @@
+Démarré par l'utilisateur [8mha:////4P1754+5BC91qZXxsThrpFfY0Fb2RTZXmTXYyzRn9St2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace C:\Users\Administrateur\.jenkins\workspace\HomeWork 2
+FSSCM.checkout C:\Users\Administrateur\eclipse-workspace\automation_basic to C:\Users\Administrateur\.jenkins\workspace\HomeWork 2
+Modified file: src\test\resources\testng.xml
+Modified file: target\automation_basic_project-basic.jar
+Modified file: target\classes\application.properties
+Modified file: target\classes\applogic\API_Helper1.class
+Modified file: target\classes\applogic\ApplicationManager1.class
+Modified file: target\classes\applogic\DriverBasedHelper.class
+Modified file: target\classes\applogic\LoginHelper1.class
+Modified file: target\classes\grid2\README.txt
+Modified file: target\classes\log4j.properties
+Modified file: target\classes\models\User.class
+Modified file: target\classes\pages\super_pages\AnyPage.class
+Modified file: target\classes\pages\super_pages\MenusPage.class
+Modified file: target\classes\pages\super_pages\Page.class
+Modified file: target\classes\pages\util_pages\CategoryContentPage.class
+Modified file: target\classes\pages\util_pages\CheckOutPage.class
+Modified file: target\classes\pages\util_pages\HomePage.class
+Modified file: target\classes\pages\util_pages\ItemsListPage.class
+Modified file: target\classes\pages\util_pages\LoginPage.class
+Modified file: target\classes\pages\util_pages\OrderSuccessPage.class
+Modified file: target\classes\pages\util_pages\RegisterPage.class
+Modified file: target\classes\pages\util_pages\RegisterSuccessPage.class
+Modified file: target\classes\pages\util_pages\ShoppingCartPage.class
+Modified file: target\classes\pages\_pages_mngt\MainPageManager.class
+Modified file: target\classes\pages\_pages_mngt\page_factory\DisplayedElementLocator.class
+Modified file: target\classes\pages\_pages_mngt\page_factory\DisplayedElementLocatorFactory.class
+Modified file: target\classes\util\Browser.class
+Modified file: target\classes\util\FileUtilis.class
+Modified file: target\classes\util\GenUtils.class
+Modified file: target\classes\util\ParamsUtils.class
+Modified file: target\classes\util\PropertiesReader.class
+Modified file: target\classes\util\SelUtils$1.class
+Modified file: target\classes\util\SelUtils$2.class
+Modified file: target\classes\util\SelUtils$LocatorType.class
+Modified file: target\classes\util\SelUtils.class
+Modified file: target\classes\webdriver\AuthenticatedHtmlUnitDriver.class
+Modified file: target\classes\webdriver\WebDriverFactory.class
+Modified file: target\maven-archiver\pom.properties
+Modified file: target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst
+Modified file: target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst
+Modified file: target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\createdFiles.lst
+Modified file: target\maven-status\maven-compiler-plugin\testCompile\default-testCompile\inputFiles.lst
+Modified file: target\surefire-reports\bullet_point.png
+Modified file: target\surefire-reports\collapseall.gif
+Modified file: target\surefire-reports\emailable-report.html
+Modified file: target\surefire-reports\failed.png
+Modified file: target\surefire-reports\index.html
+Modified file: target\surefire-reports\jquery-1.7.1.min.js
+Modified file: target\surefire-reports\junitreports\TEST-tests.basic.LinearOldCode.xml
+Modified file: target\surefire-reports\navigator-bullet.png
+Modified file: target\surefire-reports\old\index.html
+Modified file: target\surefire-reports\old\Tests\classes.html
+Modified file: target\surefire-reports\old\Tests\groups.html
+Modified file: target\surefire-reports\old\Tests\index.html
+Modified file: target\surefire-reports\old\Tests\main.html
+Modified file: target\surefire-reports\old\Tests\methods-alphabetical.html
+Modified file: target\surefire-reports\old\Tests\methods-not-run.html
+Modified file: target\surefire-reports\old\Tests\methods.html
+Modified file: target\surefire-reports\old\Tests\reporter-output.html
+Modified file: target\surefire-reports\old\Tests\TestAcq.properties
+Modified file: target\surefire-reports\old\Tests\testng.xml.html
+Modified file: target\surefire-reports\old\Tests\toc.html
+Modified file: target\surefire-reports\passed.png
+Modified file: target\surefire-reports\skipped.png
+Modified file: target\surefire-reports\TEST-TestSuite.xml
+Modified file: target\surefire-reports\testng-reports.css
+Modified file: target\surefire-reports\testng-reports.js
+Modified file: target\surefire-reports\testng-results.xml
+Modified file: target\surefire-reports\testng.css
+Modified file: target\surefire-reports\Tests\TestAcq.html
+Modified file: target\surefire-reports\Tests\TestAcq.xml
+Modified file: target\surefire-reports\TestSuite.txt
+Modified file: target\test-classes\testng.xml
+Modified file: target\test-classes\tests\basic\API_TestExample.class
+Modified file: target\test-classes\tests\basic\LinearOldCode.class
+Modified file: target\test-classes\tests\basic\PageObjectCode.class
+Modified file: target\test-classes\tests\supers\TestBase.class
+Deleted file: target\classes\util\SelUtils$3.class
+
+FSSCM.check completed in 211 milliseconds
+[HomeWork 2] $ cmd.exe /C '""C:\Program Files\Maven\apache-maven-3.6.3\bin\mvn.cmd"' -f C:\Users\Administrateur\eclipse-workspace\automation_basic\pom.xml clean install test -DsuiteXmlFile=C:\Users\Administrateur\eclipse-workspace\automation_basic\src\test\resources\testng.xml '"-Dworkspace=C:\Selenium Workspace"' && exit %%ERRORLEVEL%%"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------< com.ilana.ilana2:automation_basic_project >--------------
+[INFO] Building automation_basic_project basic
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ automation_basic_project ---
+[INFO] Deleting C:\Users\Administrateur\eclipse-workspace\automation_basic\target
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ automation_basic_project ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 3 resources
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.3:compile (default-compile) @ automation_basic_project ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 28 source files to C:\Users\Administrateur\eclipse-workspace\automation_basic\target\classes
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ automation_basic_project ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.3:testCompile (default-testCompile) @ automation_basic_project ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 4 source files to C:\Users\Administrateur\eclipse-workspace\automation_basic\target\test-classes
+[INFO] 
+[8mha:////4I8egzXVuh1uNHbtGWmtUNrDsA4dPsPgvB1HGvW9qqj2AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75Zek2mxOX+vh68DGxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAAAn9LoiYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.16:test (default-test) @ automation_basic_project ---
+[INFO] Surefire report directory: C:\Users\Administrateur\eclipse-workspace\automation_basic\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running TestSuite
+Terminer le programme de commandes (O/N)ÿ? 
+Le build a été annulé
+Aborted by [8mha:////4P1754+5BC91qZXxsThrpFfY0Fb2RTZXmTXYyzRn9St2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Finished: ABORTED

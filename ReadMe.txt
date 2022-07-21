@@ -4,4 +4,13 @@ Welcome to my repository resuming all the projects I have done in my academic co
 
 Content list :
 
-1.Manual QA - FSD/STD 2.CSS / xPath
+1.Manual QA - FSD/STD 
+2.CSS / xPath
+3.Procedurals Test - Selenium/Java/TestNG
+4.OOP/PageObject Test - Selenium/Java/TestNG
+5.CI by Jenkins - Jenkins/Java8/Maeven
+6.API
+7.Appium
+8.Monkey Test
+9.RubyMine - Cucumber
+10.Dockers

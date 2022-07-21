@@ -1,0 +1,4 @@
+tests\supers\TestBase.class
+tests\basic\PageObjectCode.class
+tests\basic\API_TestExample.class
+tests\basic\LinearOldCode.class
